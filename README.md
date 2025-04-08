@@ -11,7 +11,7 @@ It analyzes retail transaction data and recommends popular products to users bas
 </ul>
 
 <p>It combines data analysis and predictive modeling to generate smart product recommendations.</p>
-<p>Data Set : </p>
+
 
 <hr>
 
